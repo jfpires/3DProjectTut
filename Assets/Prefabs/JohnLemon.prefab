@@ -289,7 +289,6 @@ GameObject:
   - component: {fileID: 882164171998797420}
   - component: {fileID: 1035738562381580113}
   - component: {fileID: 969736970}
-  - component: {fileID: 969736971}
   m_Layer: 0
   m_Name: JohnLemon
   m_TagString: Untagged
@@ -471,14 +470,6 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!81 &969736971
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4282999380824529203}
-  m_Enabled: 1
 --- !u!1 &4282999380824529205
 GameObject:
   m_ObjectHideFlags: 0
